@@ -55,6 +55,7 @@ text-decoration: none;
 font-size: 45px;
 width:80px;
 height:80px;
+cursor: pointer;
 }
 
 #top_left {
@@ -68,11 +69,11 @@ border-radius:5px;
 }
 
 #bottom_left {
-background-color:yellow;
+background-color:blue;
 border-radius:5px;
 }
 
 #bottom_right {
-background-color:blue;
+background-color:yellow;
 border-radius:5px;
 }
